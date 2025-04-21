@@ -1,7 +1,7 @@
 # 🧠 Quiz App
 Quiz App is a simple and interactive Android application developed in Java that allows users to test their knowledge through multiple-choice questions. The app is structured using a Multi-Activity approach for smooth navigation between screens such as the home screen, quiz screen, and result screen.
 
-# 🎯 Features
+# 📌 Features:
 ✅ Multiple Choice Questions – Answer interesting questions from various topics.
 
 🔄 Multi-Activity Structure – Each screen is a separate activity (Start, Quiz, Result).
@@ -10,7 +10,7 @@ Quiz App is a simple and interactive Android application developed in Java that 
 
 🧼 Clean UI – Simple and user-friendly design for a great quiz experience.
 
-# 🛠 Tech Stack
+# 🛠 Technologies:
 
 Technology	Description
 
